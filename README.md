@@ -1,8 +1,8 @@
-# React Boilerplate
-A React boilerplate created using create-react-app. Includes SCSS build and watch scripts.
+# Five Buttons
+A memory game created using React, JavaScript and SCSS.
 
 ### Build Instructions
-    git clone https://github.com/snicholson99/react-boilerplate  
-    cd ./react-boilerplate  
+    git clone https://github.com/snicholson99/five-buttons  
+    cd ./five-buttons  
     npm i
     npm start    
